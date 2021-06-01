@@ -5,6 +5,8 @@ body{
     
 }
 #main{
+    margin: auto;
+    margin-top: 20vh;
     background-image: url("./backgorund.png");
     width: 600px;
     height: 300px;
